@@ -1,0 +1,15 @@
+{"time":"2025-09-03T15:16:11.5886015+05:30","level":"INFO","msg":"stream: starting","core version":"0.21.2"}
+{"time":"2025-09-03T15:16:13.1996115+05:30","level":"INFO","msg":"stream: created new stream","id":"bu7izdog"}
+{"time":"2025-09-03T15:16:13.1996115+05:30","level":"INFO","msg":"stream: started","id":"bu7izdog"}
+{"time":"2025-09-03T15:16:13.1996115+05:30","level":"INFO","msg":"writer: started","stream_id":"bu7izdog"}
+{"time":"2025-09-03T15:16:13.1996115+05:30","level":"INFO","msg":"sender: started","stream_id":"bu7izdog"}
+{"time":"2025-09-03T15:16:13.1996115+05:30","level":"INFO","msg":"handler: started","stream_id":"bu7izdog"}
+{"time":"2025-09-03T15:39:19.7909681+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/khanakkumar3000-pict/digit_detection_v8/bu7izdog/file_stream\": read tcp 192.168.1.75:53011->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-09-03T16:52:36.580314+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/khanakkumar3000-pict/digit_detection_v8/bu7izdog/file_stream\": read tcp 192.168.1.75:53571->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-09-03T16:52:37.9921459+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.75:53513->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-09-03T17:18:19.2983447+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-09-03T17:18:21.9999996+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-03T17:18:22.5305307+05:30","level":"INFO","msg":"stream: closing","id":"bu7izdog"}
+{"time":"2025-09-03T17:18:22.5310563+05:30","level":"INFO","msg":"handler: closed","stream_id":"bu7izdog"}
+{"time":"2025-09-03T17:18:22.5310563+05:30","level":"INFO","msg":"sender: closed","stream_id":"bu7izdog"}
+{"time":"2025-09-03T17:18:22.5315234+05:30","level":"INFO","msg":"stream: closed","id":"bu7izdog"}
